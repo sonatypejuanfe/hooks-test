@@ -12,5 +12,6 @@ public class App
       System.out.println( "Greetings from Mars!" );
       System.out.println( "I come in peace!" );
       System.out.println( "Take me to your leaders!" );
+      System.out.println( "Fool!" );
     }
 }
